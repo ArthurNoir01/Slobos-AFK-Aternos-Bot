@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DENGESIZSMP.aternos.me",
+    "ip": "DENGESIZSMP.aternos.me:37937",
     "port": 37937,
     "version": "",
     "try-creative": false
